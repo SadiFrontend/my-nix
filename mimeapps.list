@@ -1,0 +1,7 @@
+[Default Applications]
+x-scheme-handler/tg=userapp-Telegram Desktop-X23ZI3.desktop
+x-scheme-handler/tonsite=userapp-Telegram Desktop-7LKZI3.desktop
+
+[Added Associations]
+x-scheme-handler/tg=userapp-Telegram Desktop-X23ZI3.desktop;
+x-scheme-handler/tonsite=userapp-Telegram Desktop-7LKZI3.desktop;

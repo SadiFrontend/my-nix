@@ -1,0 +1,18 @@
+{
+    "workbench.sideBar.location": "right",
+    "workbench.statusBar.visible": false,
+    "workbench.activityBar.location": "bottom",
+    "editor.minimap.renderCharacters": false,
+    "editor.minimap.enabled": false,
+    "workbench.editor.editorActionsLocation": "hidden",
+    "files.autoSave": "afterDelay",
+    "workbench.colorTheme": "Gruvbox Dark Medium",
+    "workbench.iconTheme": "material-icon-theme",
+    "window.commandCenter": false,
+    "workbench.layoutControl.enabled": false,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.defaultFoldingRangeProvider": "esbenp.prettier-vscode",
+    "window.menuBarVisibility": "compact",
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmPasteNative": false
+}

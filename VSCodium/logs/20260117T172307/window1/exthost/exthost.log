@@ -1,0 +1,16 @@
+2026-01-17 17:23:12.800 [info] Extension host with pid 1699 started
+2026-01-17 17:23:12.800 [info] Skipping acquiring lock for /home/nixos/.config/VSCodium/User/workspaceStorage/3ac1ff3acfcfcaea78bfeb1c0691dbfa.
+2026-01-17 17:23:13.118 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2026-01-17 17:23:13.301 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-01-17 17:23:13.391 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2026-01-17 17:23:14.284 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2026-01-17 17:23:14.566 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2026-01-17 17:23:14.893 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-01-17 17:23:15.931 [info] Eager extensions activated
+2026-01-17 17:23:16.162 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-01-17 17:23:16.186 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-01-17 17:23:16.289 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2026-01-17 17:23:16.292 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2026-01-17 17:23:16.363 [info] ExtensionService#_doActivateExtension yandeu.five-server, startup: false, activationEvent: 'onStartupFinished'
+2026-01-17 17:24:40.133 [info] Extension host terminating: renderer closed the MessagePort
+2026-01-17 17:24:40.157 [info] Extension host with pid 1699 exiting with code 0

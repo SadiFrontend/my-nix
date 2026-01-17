@@ -1,0 +1,76 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "e755075a88fbfbf3954a451ab55be646ee7ace46c070797dd307f76ea1b6dbc6",
+    "telemetry.devDeviceId": "c651be82-4211-4e9a-aa96-dab1646d2b37",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/nixos/Frontend"
+            }
+        ],
+        "emptyWindows": []
+    },
+    "windowControlHeight": 30,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/nixos/Frontend": "__default__profile__"
+        },
+        "emptyWindows": {}
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/nixos/Frontend",
+            "backupPath": "/home/nixos/.config/VSCodium/Backups/58c18f514109bf9752c38be1ad906a3f",
+            "uiState": {
+                "mode": 1,
+                "x": 0,
+                "y": 24,
+                "width": 1366,
+                "height": 744
+            }
+        },
+        "openedWindows": []
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#282828",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#ebdbb2",
+            "background": "#282828",
+            "editorBackground": "#282828",
+            "titleBarBackground": "#282828",
+            "activityBarBackground": "#282828",
+            "activityBarBorder": "#3c3836",
+            "sideBarBackground": "#282828",
+            "sideBarBorder": "#3c3836",
+            "statusBarBackground": "#282828",
+            "statusBarBorder": "#3c3836",
+            "statusBarNoFolderBackground": "#282828"
+        },
+        "layoutInfo": {
+            "sideBarSide": "right",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 30,
+            "activityBarWidth": 0,
+            "sideBarWidth": 300,
+            "auxiliaryBarWidth": 0,
+            "statusBarHeight": 0,
+            "windowBorder": false
+        }
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 300,
+            "auxiliaryBarWidth": 300,
+            "workspaces": {
+                "3ac1ff3acfcfcaea78bfeb1c0691dbfa": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                }
+            }
+        }
+    }
+}

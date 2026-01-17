@@ -1,0 +1,15 @@
+2026-01-17 16:21:00.111 [info] Started local extension host with pid 16642.
+2026-01-17 16:21:00.495 [info] Started initializing default profile extensions in extensions installation folder. file:///home/nixos/.vscode-oss/extensions
+2026-01-17 16:21:00.567 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2026-01-17 16:21:01.608 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/nixos/.vscode-oss/extensions
+2026-01-17 16:21:04.792 [error] Cannot read properties of undefined (reading 'extensionId'): TypeError: Cannot read properties of undefined (reading 'extensionId')
+    at t (vscode-file://vscode-app/nix/store/xga25sfa7qszmggbinhvyzzim9cqdcac-vscodium-1.106.27818/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:4125:2745)
+    at mDt.recommendRemoteExtensionIfNeeded (vscode-file://vscode-app/nix/store/xga25sfa7qszmggbinhvyzzim9cqdcac-vscodium-1.106.27818/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:4125:3497)
+2026-01-17 16:21:05.421 [info] [perf] Render performance baseline is 125ms
+2026-01-17 16:21:37.263 [info] Started local extension host with pid 16806.
+2026-01-17 16:21:38.359 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2026-01-17 16:21:40.446 [error] Cannot read properties of undefined (reading 'extensionId'): TypeError: Cannot read properties of undefined (reading 'extensionId')
+    at t (vscode-file://vscode-app/nix/store/xga25sfa7qszmggbinhvyzzim9cqdcac-vscodium-1.106.27818/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:4125:2745)
+    at mDt.recommendRemoteExtensionIfNeeded (vscode-file://vscode-app/nix/store/xga25sfa7qszmggbinhvyzzim9cqdcac-vscodium-1.106.27818/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:4125:3497)
+2026-01-17 16:21:41.333 [info] [perf] Render performance baseline is 108ms
+2026-01-17 16:26:35.467 [warning] SettingsEditor2: Settings not included in settingsLayout.ts: workbench.secondarySideBar.enableDefaultVisibilityInOldWorkspace, commands.filters, extensions.requestTimeout, github.copilot.chat.agent.terminal.allowList, github.copilot.chat.agent.terminal.denyList, terminal.integrated.developer.devMode, terminal.integrated.developer.ptyHost.latency, terminal.integrated.developer.ptyHost.startupDelay
